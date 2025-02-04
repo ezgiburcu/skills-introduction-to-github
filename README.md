@@ -1,4 +1,6 @@
-<header>
+# Merhaba GitHub!
+Ben buradayım ve kodlama öğreniyorum! 🚀
+header>
 
 <!--
   <<< Author notes: Course header >>>
